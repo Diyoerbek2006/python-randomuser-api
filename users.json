@@ -1,11 +1,9 @@
-[
-    {
-        "full_name": "",
-        "phone": "",
-        "email": "",
-        "age": "",
-        "nat": "",
-        "gender": "",
-        "country": ""
-    }
-]
+{
+    "full_name": "\u00d6m\u00fcr Duygulu",
+    "phone": "(086)-021-7103",
+    "email": "omur.duygulu@example.com",
+    "age": 63,
+    "nat": "TR",
+    "gender": "female",
+    "country": "Turkey"
+}
